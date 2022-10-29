@@ -17,5 +17,5 @@ En el caso del sexo de los participantes, los resultados no fueron como se creia
 Como proximos pasos, seria interesante comparar la demografia de los paises que poseen la mayor cantidad de medallas y además poder estudiar si las condiciones geograficas les brindan algun tipo de ventaja en ciertas disciplinas.
 
 # Integrantes 
--Horacio De Felipe
--Frncisco Lucioni
+- Horacio De Felipe
+- Francisco Lucioni
